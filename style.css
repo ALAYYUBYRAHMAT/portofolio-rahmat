@@ -1,0 +1,53 @@
+
+
+.navbar{
+    background-color: #004225;
+   
+
+}
+.jumbotrom{
+    padding-top: 8rem;
+}
+h2{
+    padding-top: 2rem;
+}
+.logo{
+    font-size: 30px;
+    
+}
+.logo1{
+    font-size: 17px;
+    
+}
+.jumbotrom{
+    background-color: #FFB000;
+}
+#About{
+    padding-top: 5rem;
+    background-color: #F5F5DC; 
+}
+.oke{
+    padding-bottom: 1rem;
+}
+#Project{
+    background-color: #FFB000;
+    padding-top: 6rem;
+}
+.row{
+    padding-top: 3rem;
+}
+.oit{
+    padding-top: 1rem;
+}
+#Contact{
+    background-color: #004225;
+    color: black;
+    padding-bottom: 4rem;
+    
+}
+.ig{
+    color: black;
+    font-size: 15px;
+    padding-top: 6rem;
+}
+
